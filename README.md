@@ -14,6 +14,7 @@ __Explorando Colaboração e Markdown__
 💥Atrás de conhecimento sempre [x]
 -------
 🔐Segurança da conta [x]
+-------
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/cb/0f/33/cb0f3377971e05f3e5ea7ed771a9c2f8.gif"  />
