@@ -1,15 +1,16 @@
-# desafio-github-markdown
+### desafio-github-markdown
 __Explorando Colaboração e Markdown__
 
-Oque ja realizei no meu perfil do GitHub [x]
+# Oque ja realizei no meu perfil do GitHub [x]
 ----------
-Alteração de foto de perfil [x]
+# Alteração de foto de perfil [x]
 ----------
-Link para o Linkedin minhas tecnologias (Em andamento) [x]
+# Link para o Linkedin minhas tecnologias (Em andamento) [x]
 ---------
-Adiciinado o status da conta [x]
+# Adiciinado o status da conta [x]
 --------- 
-Gif ou imagem [ ] (Ema algum post)
+# Gif ou imagem [ ] (Ema algum post)
+---------
 
 
 <div align="center">
